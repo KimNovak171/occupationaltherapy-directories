@@ -100,7 +100,7 @@ export default async function RootLayout({
                   </Link>
                 </nav>
               </div>
-              <p className="ml-4 hidden max-w-xs text-right text-xs text-gold-soft sm:block">
+              <p className="ml-4 hidden max-w-xs text-right text-xs text-white/90 sm:block">
                 Trusted Speech Therapist directory for families and caregivers.
               </p>
             </div>
