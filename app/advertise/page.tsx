@@ -30,8 +30,8 @@ export const metadata: Metadata = {
 };
 
 const siteUrl = "https://SpeechTherapistDirectories.com";
-const STRIPE_LINK_49 = "https://buy.stripe.com/28E00jb2q2jlgsC2f7fAc00";
-const STRIPE_LINK_99 = "https://buy.stripe.com/eVq5kD4E2cXZfoy4nffAc01";
+const STRIPE_LINK_49 = "https://buy.stripe.com/dRmcN58Ui9LNccmg5XfAc06";
+const STRIPE_LINK_99 = "https://buy.stripe.com/5kQ5kD5I66zBa4e6vnfAc07";
 
 export default function AdvertisePage() {
   const breadcrumbSchema = {
@@ -70,7 +70,7 @@ export default function AdvertisePage() {
         <p className="max-w-3xl text-sm text-slate-600">
           SpeechTherapistDirectories.com is visited by Families actively searching for
           speech therapy/pathology options across the United States. A featured listing puts
-        your practice at the top of your city directory section and in front of
+          your practice at the top of your city directory section and in front of
           high-intent visitors at the moment they are choosing a speech therapy/pathology service.
         </p>
       </header>
@@ -92,7 +92,7 @@ export default function AdvertisePage() {
             rel="noopener noreferrer"
             className="mt-5 inline-flex w-full items-center justify-center rounded-full bg-teal px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-teal-soft focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-teal focus-visible:ring-offset-2"
           >
-            Get Started
+            Pay $49/month with Stripe
           </a>
         </article>
         <article className="rounded-xl border border-surface-muted bg-surface p-6 shadow-sm">
@@ -112,7 +112,7 @@ export default function AdvertisePage() {
             rel="noopener noreferrer"
             className="mt-5 inline-flex w-full items-center justify-center rounded-full bg-teal px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-teal-soft focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-teal focus-visible:ring-offset-2"
           >
-            Get Started
+            Pay $99/month with Stripe
           </a>
         </article>
       </section>

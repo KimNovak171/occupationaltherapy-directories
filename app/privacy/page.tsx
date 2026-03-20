@@ -38,7 +38,7 @@ export default function PrivacyPage() {
         <section className="space-y-4 text-sm text-slate-700">
           <h2 className="text-lg font-semibold text-navy">1. Introduction</h2>
           <p>
-            SpeechTherapyDirectories.com (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) operates a directory website that helps caregivers find and compare speech therapy practices across the United States and Canada. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website.
+            SpeechTherapyDirectories.com (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) operates a directory website that helps families and caregivers find and compare speech therapy practices across the United States and Canada. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website.
           </p>
 
           <h2 className="text-lg font-semibold text-navy">2. Information We Collect</h2>
@@ -63,7 +63,7 @@ export default function PrivacyPage() {
 
           <h2 className="text-lg font-semibold text-navy">6. Third-Party Links and Services</h2>
           <p>
-            Our site may contain links to third-party websites (e.g., facility websites, Google Maps, payment processors). We are not responsible for the privacy practices of those sites. We encourage you to read their privacy policies.
+            Our site may contain links to third-party websites (e.g., practice websites, Google Maps, payment processors). We are not responsible for the privacy practices of those sites. We encourage you to read their privacy policies.
           </p>
 
           <h2 className="text-lg font-semibold text-navy">7. Data Security</h2>
