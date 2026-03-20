@@ -897,7 +897,7 @@ const US_STATE_SLUGS = [
   "vermont",
   "virginia",
   "washington",
-  "washington-dc",
+  "district-of-columbia",
   "west-virginia",
   "wisconsin",
   "wyoming",
