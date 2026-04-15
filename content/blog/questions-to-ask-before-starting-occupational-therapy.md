@@ -1,7 +1,7 @@
 ---
 title: "Questions to Ask Before Starting Occupational Therapy"
 description: "Before committing to occupational therapy, asking the right questions helps you find the best fit and set realistic expectations. Here is what to ask."
-date: "2026-06-10"
+date: "2026-03-31"
 ---
 
 # Questions to Ask Before Starting Occupational Therapy

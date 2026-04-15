@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy After Traumatic Brain Injury: Rebuilding Daily Life"
 description: "Traumatic brain injury affects cognition, behavior, and daily function in complex ways. Occupational therapy is a critical part of TBI rehabilitation."
-date: "2026-04-08"
+date: "2026-03-21"
 ---
 
 # Occupational Therapy After Traumatic Brain Injury: Rebuilding Daily Life

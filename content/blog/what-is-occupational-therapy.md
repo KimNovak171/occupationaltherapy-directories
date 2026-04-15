@@ -1,7 +1,7 @@
 ---
 title: "What Is Occupational Therapy and Who Does It Help?"
 description: "Occupational therapy helps people of all ages participate in the activities that matter most to them. Here is what it is, who provides it, and who benefits."
-date: "2026-01-07"
+date: "2026-04-10"
 ---
 
 # What Is Occupational Therapy and Who Does It Help?

@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Older Adults: Supporting Independence at Home"
 description: "Occupational therapy helps older adults maintain independence, prevent falls, and continue living safely at home. Here is what it involves and how to access it."
-date: "2026-02-18"
+date: "2026-03-07"
 ---
 
 # Occupational Therapy for Older Adults: Supporting Independence at Home

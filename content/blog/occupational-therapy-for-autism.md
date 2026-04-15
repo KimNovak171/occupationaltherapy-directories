@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Autism: How It Helps and What to Expect"
 description: "Occupational therapy is one of the most widely recommended interventions for autistic children and adults. Here is how it helps and what families should know."
-date: "2026-02-04"
+date: "2026-02-13"
 ---
 
 # Occupational Therapy for Autism: How It Helps and What to Expect

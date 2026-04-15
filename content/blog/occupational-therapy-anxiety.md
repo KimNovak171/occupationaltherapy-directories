@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Anxiety: When Worry Disrupts Daily Life"
 description: "Anxiety disorders affect the ability to participate in daily activities, work, and social life. Occupational therapy addresses the functional impact of anxiety."
-date: "2026-06-17"
+date: "2026-01-23"
 ---
 
 # Occupational Therapy for Anxiety: When Worry Disrupts Daily Life

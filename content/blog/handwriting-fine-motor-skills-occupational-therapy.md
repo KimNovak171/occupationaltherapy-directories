@@ -1,7 +1,7 @@
 ---
 title: "Handwriting and Fine Motor Skills: How Occupational Therapy Helps Children"
 description: "Poor handwriting and fine motor delays are among the most common reasons children are referred for occupational therapy. Here is what the evaluation and treatment involves."
-date: "2026-03-04"
+date: "2026-01-05"
 ---
 
 # Handwriting and Fine Motor Skills: How Occupational Therapy Helps Children

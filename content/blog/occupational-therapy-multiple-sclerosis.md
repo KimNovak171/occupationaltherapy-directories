@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Multiple Sclerosis: Managing Daily Life With MS"
 description: "Multiple sclerosis affects daily function in complex, unpredictable ways. Occupational therapy helps people with MS maintain independence and manage their condition."
-date: "2026-05-20"
+date: "2026-03-03"
 ---
 
 # Occupational Therapy for Multiple Sclerosis: Managing Daily Life With MS

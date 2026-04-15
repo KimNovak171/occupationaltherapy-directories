@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy After Stroke: Rebuilding Independence"
 description: "Stroke can dramatically affect the ability to perform daily activities. Occupational therapy is a critical part of stroke rehabilitation. Here is what to expect."
-date: "2026-01-28"
+date: "2026-01-19"
 ---
 
 # Occupational Therapy After Stroke: Rebuilding Independence

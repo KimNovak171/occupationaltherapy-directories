@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Cerebral Palsy: Maximizing Independence and Participation"
 description: "Cerebral palsy affects movement and daily function from early childhood. Occupational therapy helps children and adults with CP maximize independence and participation."
-date: "2026-06-03"
+date: "2026-01-30"
 ---
 
 # Occupational Therapy for Cerebral Palsy: Maximizing Independence and Participation

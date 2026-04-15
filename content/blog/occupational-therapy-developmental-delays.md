@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Developmental Delays: Early Intervention Matters"
 description: "Developmental delays in motor, sensory, or daily living skills respond well to occupational therapy. Early identification and intervention produce the best outcomes."
-date: "2026-06-24"
+date: "2026-02-09"
 ---
 
 # Occupational Therapy for Developmental Delays: Early Intervention Matters

@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Low Vision: Adapting Daily Life When Sight Changes"
 description: "Low vision affects the ability to perform everyday tasks. Occupational therapy helps people with vision loss adapt and maintain independence."
-date: "2026-04-15"
+date: "2026-02-24"
 ---
 
 # Occupational Therapy for Low Vision: Adapting Daily Life When Sight Changes

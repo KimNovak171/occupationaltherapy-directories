@@ -1,7 +1,7 @@
 ---
 title: "Hand Therapy: How Occupational Therapists Treat Hand and Wrist Injuries"
 description: "Many occupational therapists specialize in hand therapy, treating injuries and conditions affecting the hand, wrist, and forearm. Here is what it involves."
-date: "2026-02-11"
+date: "2026-01-01"
 ---
 
 # Hand Therapy: How Occupational Therapists Treat Hand and Wrist Injuries

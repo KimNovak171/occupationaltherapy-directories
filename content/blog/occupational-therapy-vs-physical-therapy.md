@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy vs. Physical Therapy: What Is the Difference?"
 description: "OT and PT are often confused. Both help people function better, but they focus on different things. Here is a clear explanation of the difference."
-date: "2026-07-22"
+date: "2026-03-24"
 ---
 
 # Occupational Therapy vs. Physical Therapy: What Is the Difference?

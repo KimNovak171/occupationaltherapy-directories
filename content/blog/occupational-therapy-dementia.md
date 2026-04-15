@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Dementia: Supporting Independence and Quality of Life"
 description: "Dementia progressively affects daily function and independence. Occupational therapy supports people with dementia and their caregivers at every stage."
-date: "2026-05-06"
+date: "2026-02-06"
 ---
 
 # Occupational Therapy for Dementia: Supporting Independence and Quality of Life

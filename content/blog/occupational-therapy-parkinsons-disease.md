@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Parkinson's Disease: Maintaining Independence"
 description: "Parkinson's disease progressively affects movement and daily function. Occupational therapy helps people with Parkinson's maintain independence for as long as possible."
-date: "2026-03-25"
+date: "2026-03-10"
 ---
 
 # Occupational Therapy for Parkinson's Disease: Maintaining Independence

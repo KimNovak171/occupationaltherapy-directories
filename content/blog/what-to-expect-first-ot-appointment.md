@@ -1,7 +1,7 @@
 ---
 title: "What to Expect at Your First Occupational Therapy Appointment"
 description: "Knowing what to expect at your first OT appointment removes uncertainty and helps you prepare. Here is exactly what the evaluation process looks like."
-date: "2026-04-01"
+date: "2026-04-15"
 ---
 
 # What to Expect at Your First Occupational Therapy Appointment

@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for ADHD: Practical Strategies for Daily Life"
 description: "ADHD affects far more than attention. Occupational therapy helps children and adults with ADHD develop the practical skills and strategies needed for daily functioning."
-date: "2026-03-18"
+date: "2026-01-16"
 ---
 
 # Occupational Therapy for ADHD: Practical Strategies for Daily Life

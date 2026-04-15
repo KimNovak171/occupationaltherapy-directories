@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy After Hip or Knee Replacement: Getting Back to Daily Life"
 description: "Joint replacement surgery dramatically affects daily function. Occupational therapy helps you recover safely and return to independence after hip or knee replacement."
-date: "2026-07-08"
+date: "2026-02-20"
 ---
 
 # Occupational Therapy After Hip or Knee Replacement: Getting Back to Daily Life

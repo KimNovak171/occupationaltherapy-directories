@@ -1,7 +1,7 @@
 ---
 title: "Sensory Processing and Occupational Therapy: What Parents Should Know"
 description: "Children who overreact or underreact to sensory input may have sensory processing difficulties. Occupational therapy is the primary treatment approach."
-date: "2026-01-21"
+date: "2026-04-04"
 ---
 
 # Sensory Processing and Occupational Therapy: What Parents Should Know

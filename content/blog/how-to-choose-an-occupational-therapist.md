@@ -1,7 +1,7 @@
 ---
 title: "How to Choose an Occupational Therapist: What to Look For"
 description: "Finding the right occupational therapist makes a meaningful difference in outcomes. Here is what to look for and what questions to ask before you commit."
-date: "2026-03-11"
+date: "2026-01-12"
 ---
 
 # How to Choose an Occupational Therapist: What to Look For

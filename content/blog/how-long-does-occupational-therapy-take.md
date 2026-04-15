@@ -1,7 +1,7 @@
 ---
 title: "How Long Does Occupational Therapy Take? What to Expect"
 description: "The duration of occupational therapy depends on many factors. Here is a realistic guide to how long different types of OT typically take and what affects the timeline."
-date: "2026-07-29"
+date: "2026-01-09"
 ---
 
 # How Long Does Occupational Therapy Take? What to Expect

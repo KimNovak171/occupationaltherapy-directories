@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Work Injuries and Ergonomics: Getting Back to Work"
 description: "Work-related injuries and ergonomic problems respond well to occupational therapy. Here is how OT supports recovery and return to work."
-date: "2026-05-27"
+date: "2026-03-28"
 ---
 
 # Occupational Therapy for Work Injuries and Ergonomics: Getting Back to Work

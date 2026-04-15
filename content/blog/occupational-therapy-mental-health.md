@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy and Mental Health: Rebuilding Meaningful Daily Life"
 description: "Mental health conditions affect the ability to engage in daily activities and meaningful roles. Occupational therapy addresses this dimension of mental health recovery."
-date: "2026-02-25"
+date: "2026-02-28"
 ---
 
 # Occupational Therapy and Mental Health: Rebuilding Meaningful Daily Life

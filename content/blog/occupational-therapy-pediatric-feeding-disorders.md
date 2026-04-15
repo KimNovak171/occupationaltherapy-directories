@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Pediatric Feeding Disorders: When Mealtime Is a Struggle"
 description: "When children have significant difficulty eating — beyond typical picky eating — occupational therapy can help. Here is what feeding therapy involves."
-date: "2026-05-13"
+date: "2026-03-14"
 ---
 
 # Occupational Therapy for Pediatric Feeding Disorders: When Mealtime Is a Struggle

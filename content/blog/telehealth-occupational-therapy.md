@@ -1,7 +1,7 @@
 ---
 title: "Telehealth Occupational Therapy: What It Is and When It Works"
 description: "Occupational therapy delivered via video is increasingly common and effective for many conditions. Here is what telehealth OT involves and whether it might work for you."
-date: "2026-07-15"
+date: "2026-04-07"
 ---
 
 # Telehealth Occupational Therapy: What It Is and When It Works

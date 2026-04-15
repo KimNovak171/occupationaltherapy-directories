@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy Costs and Insurance: What You Need to Know"
 description: "Understanding how occupational therapy is covered by insurance — and what to do if it is not — helps you access the services you need without financial surprises."
-date: "2026-07-01"
+date: "2026-02-02"
 ---
 
 # Occupational Therapy Costs and Insurance: What You Need to Know

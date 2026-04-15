@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Spinal Cord Injury: Regaining Independence"
 description: "Spinal cord injury dramatically changes daily function. Occupational therapy is essential to rehabilitation, helping people maximize independence after SCI."
-date: "2026-04-22"
+date: "2026-03-17"
 ---
 
 # Occupational Therapy for Spinal Cord Injury: Regaining Independence

@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy in Cancer Rehabilitation: Maintaining Quality of Life"
 description: "Cancer and its treatment affect daily function in profound ways. Occupational therapy helps cancer survivors maintain independence and quality of life."
-date: "2026-04-29"
+date: "2026-01-26"
 ---
 
 # Occupational Therapy in Cancer Rehabilitation: Maintaining Quality of Life

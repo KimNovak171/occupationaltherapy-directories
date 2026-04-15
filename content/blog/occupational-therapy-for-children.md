@@ -1,7 +1,7 @@
 ---
 title: "Occupational Therapy for Children: What Parents Need to Know"
 description: "Children who struggle with daily tasks, school participation, or sensory processing may benefit from occupational therapy. Here is what parents need to know."
-date: "2026-01-14"
+date: "2026-02-17"
 ---
 
 # Occupational Therapy for Children: What Parents Need to Know
